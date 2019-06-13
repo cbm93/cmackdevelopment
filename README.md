@@ -14,4 +14,6 @@ Demo: https://colinmackinnon.github.io/cmackdevelopment/
 * Using the Template As Is
 * Customization and Editing
 
+# License 
+
 Completely free!
