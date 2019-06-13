@@ -3,7 +3,6 @@ This repo contains an easy to customize company website template that was create
 
 Demo: https://colinmackinnon.github.io/cmackdevelopment/
 
-
 # Features
 
 * Fully responsive
@@ -15,25 +14,4 @@ Demo: https://colinmackinnon.github.io/cmackdevelopment/
 * Using the Template As Is
 * Customization and Editing
 
-# Customization and Editing
-
-In general, most styles on the page are based off the definitions of variables in the variable section of the style sheet:
-
-// Define background and font colors
-background: #fff;
-font-family: 'Open Sans', sans-serif;
-font-weight: 300;
-
-// Define text 
-color: #fff;
-text-align: center;
-
-
-
-# Images
-
-The template comes with a number of images, logos I have created for the purpose of this template which act simply as placeholders and should be switched.
-
-
-License
 Completely free!
