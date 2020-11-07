@@ -1,6 +1,3 @@
-
-Completely free!
-
 # CMACK Development
 
 This project was created with HTML, CSS & Javascript.
